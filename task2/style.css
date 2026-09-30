@@ -1,0 +1,97 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    color: #333333;
+}
+
+h1 {
+    color: #FFB6C1;
+    margin-bottom: 5px;
+    font-size: 32px;
+    font-weight: normal;
+    letter-spacing: 1px;
+}
+
+h2 {
+    color: #D14780;
+    margin-top: 0;
+    margin-bottom: 15px;
+    font-size: 18px;
+    font-weight: normal;
+}
+
+.contacts {
+    color: #555555;
+    font-size: 14px;
+    margin-bottom: 30px;
+}
+
+.main-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+.left-column {
+    width: 53%;
+    border-right: 1px dashed #FFB6C1;
+    padding-right: 20px;
+}
+
+.right-column {
+    width: 38%;
+}
+
+h3 {
+    color: #D14780;
+    border-bottom: 1px solid #FFB6C1;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+    font-size: 16px;
+    font-weight: normal;
+    letter-spacing: 0.5px;
+}
+
+.item-block {
+    margin-bottom: 25px;
+}
+
+.item-block-large {
+    margin-bottom: 35px;
+}
+
+h4 {
+    margin: 0;
+    color: #333333;
+    font-size: 15px;
+    font-weight: bold;
+    letter-spacing: 0.5px;
+}
+
+.date-text {
+    margin: 3px 0;
+    color: #777777;
+    font-size: 13px;
+}
+
+.description-text {
+    margin: 8px 0 0 0;
+    color: #555555;
+    font-size: 13px;
+    line-height: 1.5;
+    text-align: justify;
+}
+
+.list-block {
+    color: #555555;
+    font-size: 13px;
+    line-height: 1.8;
+}
+
+.list-block-large {
+    margin-bottom: 35px;
+    color: #555555;
+    font-size: 13px;
+    line-height: 1.8;
+}
